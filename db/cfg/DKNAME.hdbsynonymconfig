@@ -1,0 +1,8 @@
+{
+    "DK_NA_DB_NAMES": {
+        "target": {
+            "object": "DK_DB_NAMES",
+            "schema.configure": "dk-Names-db-hdi/schema"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "dk-Names-db-hdi": {
+        "object_owner": {
+            "container_roles": [
+                "DKNAME_G#"
+            ]
+        },
+        "application_user": {
+            "container_roles": [
+                "DKNAME"
+            ]
+        }
+    }
+}
